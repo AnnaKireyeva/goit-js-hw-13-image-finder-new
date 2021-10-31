@@ -1,24 +1,24 @@
 {
-  "name": "goit-js-hw-13-image-finder",
+  "name": "goit-js-hw-13-image-finder-new",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://AnnaKireyeva.github.io/goit-js-hw-13-image-finder",
+  "homepage": "https://AnnaKireyeva.github.io/goit-js-hw-13-image-finder-new",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-13-image-finder/",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-13-image-finder-new/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnnaKireyeva/goit-js-hw-13-image-finder"
+    "url": "git+https://github.com/AnnaKireyeva/goit-js-hw-13-image-finder-new"
   },
   "keywords": [],
   "author": "Anna Kireyeva",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AnnaKireyeva/goit-js-hw-13-image-finder/issues"
+    "url": "https://github.com/AnnaKireyeva/goit-js-hw-13-image-finder-new/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
