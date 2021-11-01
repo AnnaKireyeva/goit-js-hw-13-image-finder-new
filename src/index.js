@@ -47,10 +47,8 @@ function showLoadMoreBtn() {
 }
 
 function scrollPage() {
-  setTimeout(() => {
-    refs.loadMoreBtn.scrollIntoView({
-      behavior: 'smooth',
-      block: 'end',
-    });
-  }, 500);
+  refs.loadMoreBtn.scrollIntoView({
+    behavior: 'smooth',
+    block: 'end',
+  });
 }
